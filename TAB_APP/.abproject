@@ -1,0 +1,45 @@
+{
+  "ProjectName": "TAB_APP",
+  "ProjectGuid": "d16a20a7-50a8-4488-8850-3952eeb4677e",
+  "projectVersion": 1,
+  "AppIdentifier": "com.telerik.TABAPP",
+  "DisplayName": "TAB_APP",
+  "Author": "",
+  "Description": "TAB_APP",
+  "BundleVersion": "1.0",
+  "AndroidVersionCode": "1",
+  "iOSDeviceFamily": [
+    "1",
+    "2"
+  ],
+  "iOSBackgroundMode": [],
+  "ProjectTypeGuids": "{070BCB52-5A75-4F8C-A973-144AF0EAFCC9}",
+  "FrameworkVersion": "3.7.0",
+  "AndroidPermissions": [
+    "android.permission.INTERNET"
+  ],
+  "DeviceOrientations": [
+    "Portrait",
+    "Landscape"
+  ],
+  "AndroidHardwareAcceleration": "false",
+  "iOSStatusBarStyle": "Default",
+  "Framework": "Cordova",
+  "WP8TileTitle": "",
+  "WP8Publisher": "",
+  "WP8Capabilities": [
+    "ID_CAP_NETWORKING",
+    "ID_CAP_WEBBROWSERCOMPONENT"
+  ],
+  "WP8Requirements": [],
+  "WP8PublisherID": "{426fba19-5a30-491a-8978-69dac207b164}",
+  "WP8ProductID": "{71609fd8-6153-4ba9-a97d-84c1231a008e}",
+  "WPSdk": "8.0",
+  "WP8PackageIdentityName": "1234Telerik.TABAPP",
+  "WP8WindowsPublisherName": "CN=Telerik",
+  "WP8SupportedResolutions": [
+    "ID_RESOLUTION_WVGA",
+    "ID_RESOLUTION_WXGA",
+    "ID_RESOLUTION_HD720P"
+  ]
+}
